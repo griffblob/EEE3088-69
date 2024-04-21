@@ -10,3 +10,5 @@ As our project for our 3088 electrcial design course we have to design subsystem
 Project files for the sensing subsystem can be found in: [Sensing](https://github.com/griffblob/EEE3088-69/tree/main/EEE3088%20Sensing)
 
 Project files for the power subsystem can be found in: [Power](https://github.com/griffblob/EEE3088-69/tree/main/EEE3088%20Power)
+
+Our reports can be found in [Reports](https://github.com/griffblob/EEE3088-69/tree/main/Reports). However they will only be available after final submission closes to miniise risks of plagarism.
